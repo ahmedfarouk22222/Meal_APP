@@ -38,14 +38,14 @@ It displays meals from **TheMealDB API** with support for **search, localization
   ![Splash Light](https://i.postimg.cc/05t8tv4P/splash-light.png)
   
 - **Dark Mode:**  
-  ![Splash Dark](screenshots/dark/splash.png)  
+  ![Splash Dark](https://i.postimg.cc/wTZ9pVHr/splash-dark.png)  
 
 ---
 
 ### 2️⃣ Home Screen
 - Displays a list of meals fetched from API.  
 - Supports pull-to-refresh.  
-- **Light Mode:**  
+  
   ![Home Light](https://i.postimg.cc/8c3gTp8v/home.png)  
  
 
@@ -53,7 +53,7 @@ It displays meals from **TheMealDB API** with support for **search, localization
 
 ### 3️⃣ Details Screen
 - Shows detailed information about a selected meal (image, description, ingredients).  
-- **Light Mode:**  
+
   ![Details Light](https://i.postimg.cc/HscCBy59/Screenshot-20250813-194156.png)  
 
 
@@ -62,7 +62,7 @@ It displays meals from **TheMealDB API** with support for **search, localization
 ### 4️⃣ Search Screen
 - Allows searching for meals by name.  
 - Displays results dynamically as user types.  
-- **Light Mode:**  
+  
   ![Search Light](https://i.postimg.cc/hGbnVRxF/search.png)  
  
 
