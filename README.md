@@ -31,29 +31,44 @@ It displays meals from **TheMealDB API** with support for **search, localization
 
 ## 🗂 Screens Overview
 
-### 🌞 Light Mode
-| Splash | Home | Details | Search |
-|--------|------|---------|--------|
-| ![Splash Light](screenshots/light/splash.png) | ![Home Light](screenshots/light/home.png) | ![Details Light](screenshots/light/details.png) | ![Search Light](screenshots/light/search.png) |
+### 1️⃣ Splash Screen
+- Displays app logo and initializes settings (theme & localization).
+- Automatically navigates to Home Screen.
+- **Light Mode:**  
+  ![Splash Light](screenshots/light/splash.png)  
+- **Dark Mode:**  
+  ![Splash Dark](screenshots/dark/splash.png)  
 
 ---
 
-### 🌚 Dark Mode
-| Splash | Home | Details | Search |
-|--------|------|---------|--------|
-| ![Splash Dark](screenshots/dark/splash.png) | ![Home Dark](screenshots/dark/home.png) | ![Details Dark](screenshots/dark/details.png) | ![Search Dark](screenshots/dark/search.png) |
+### 2️⃣ Home Screen
+- Displays a list of meals fetched from API.  
+- Supports pull-to-refresh.  
+- **Light Mode:**  
+  ![Home Light](screenshots/light/home.png)  
+- **Dark Mode:**  
+  ![Home Dark](screenshots/dark/home.png)  
 
 ---
 
-### 🌍 Localization
-| English Home | Arabic Home |
-|--------------|-------------|
-| ![English Home](screenshots/localization/home_en.png) | ![Arabic Home](screenshots/localization/home_ar.png) |
+### 3️⃣ Details Screen
+- Shows detailed information about a selected meal (image, description, ingredients).  
+- **Light Mode:**  
+  ![Details Light](screenshots/light/details.png)  
+- **Dark Mode:**  
+  ![Details Dark](screenshots/dark/details.png)  
 
 ---
 
-## 📦 How to Run
+### 4️⃣ Search Screen
+- Allows searching for meals by name.  
+- Displays results dynamically as user types.  
+- **Light Mode:**  
+  ![Search Light](screenshots/light/search.png)  
+- **Dark Mode:**  
+  ![Search Dark](screenshots/dark/search.png)  
 
-```bash
-flutter pub get
-flutter run
+---
+
+### 5️⃣ Localization Example
+- App supports b
