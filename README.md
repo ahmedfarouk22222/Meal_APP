@@ -71,4 +71,20 @@ It displays meals from **TheMealDB API** with support for **search, localization
 ---
 
 ### 5️⃣ Localization Example
-- App supports b
+- The app supports **two languages**: **English** and **Arabic**.  
+- Users can switch languages at runtime from the settings or directly from the app bar.  
+- All UI elements and text update instantly without restarting the app.
+
+**English Example:**  
+![English Localization](screenshots/localization/home_en.png)  
+
+**Arabic Example:**  
+![Arabic Localization](screenshots/localization/home_ar.png)  
+
+---
+
+## 📦 How to Run
+
+```bash
+flutter pub get
+flutter run
