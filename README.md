@@ -22,8 +22,8 @@ It displays meals from **TheMealDB API** with support for **search, localization
 - **State Management:** GetX  
 - **Routing:** GetX Named Routes  
 - **Dependency Injection:** Get.put / Get.lazyPut  
-- **HTTP Requests:** Dio  
-- **Local Storage:** GetStorage  
+ 
+- **Local Storage:** flutter secure storage  
 - **Localization:** GetX Translations  
 - **API:** [TheMealDB](https://www.themealdb.com/api.php)  
 
