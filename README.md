@@ -35,7 +35,7 @@ It displays meals from **TheMealDB API** with support for **search, localization
 - Displays app logo and initializes settings (theme & localization).
 - Automatically navigates to Home Screen.
 - **Light Mode:**  
-  ![Splash Light]((https://raw.githubusercontent.com/ahmedfarouk22222/Meal_APP/main/assets/screenshots/splash_light.png)
+  ![Splash Light](https://i.postimg.cc/05t8tv4P/splash-light.png)
   
 - **Dark Mode:**  
   ![Splash Dark](screenshots/dark/splash.png)  
