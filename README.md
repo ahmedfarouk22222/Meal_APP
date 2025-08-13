@@ -46,18 +46,16 @@ It displays meals from **TheMealDB API** with support for **search, localization
 - Displays a list of meals fetched from API.  
 - Supports pull-to-refresh.  
 - **Light Mode:**  
-  ![Home Light](screenshots/light/home.png)  
-- **Dark Mode:**  
-  ![Home Dark](screenshots/dark/home.png)  
+  ![Home Light](https://i.postimg.cc/8c3gTp8v/home.png)  
+ 
 
 ---
 
 ### 3️⃣ Details Screen
 - Shows detailed information about a selected meal (image, description, ingredients).  
 - **Light Mode:**  
-  ![Details Light](screenshots/light/details.png)  
-- **Dark Mode:**  
-  ![Details Dark](screenshots/dark/details.png)  
+  ![Details Light](https://i.postimg.cc/HscCBy59/Screenshot-20250813-194156.png)  
+
 
 ---
 
@@ -65,9 +63,8 @@ It displays meals from **TheMealDB API** with support for **search, localization
 - Allows searching for meals by name.  
 - Displays results dynamically as user types.  
 - **Light Mode:**  
-  ![Search Light](screenshots/light/search.png)  
-- **Dark Mode:**  
-  ![Search Dark](screenshots/dark/search.png)  
+  ![Search Light](https://i.postimg.cc/hGbnVRxF/search.png)  
+ 
 
 ---
 
@@ -77,10 +74,10 @@ It displays meals from **TheMealDB API** with support for **search, localization
 - All UI elements and text update instantly without restarting the app.
 
 **English Example:**  
-![English Localization](screenshots/localization/home_en.png)  
+![English Localization](https://i.postimg.cc/8c3gTp8v/home.png)  
 
 **Arabic Example:**  
-![Arabic Localization](screenshots/localization/home_ar.png)  
+![Arabic Localization](https://i.postimg.cc/P5W9RzqY/localization.png)  
 
 ---
 
